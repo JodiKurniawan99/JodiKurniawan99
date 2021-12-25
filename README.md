@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Jodi Kurniawan**.\
+Perkenalkan nama saya **Jodi Kurniawan**.
 
-Saya seorang **Android dan Multiplatform Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Android dan Multiplatform Developer** di [Dicoding](https://www.dicoding.com/).
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/).\
+Saya bertanggung jawab pada kualitas materi android dan multiplatform dengan dibekali [sertifikasi dari University of Toronto](https://www.dicoding.com/).
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/) sejak 2019.\
+Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/) bismillah 2022.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/jodi-kurniawan)ku ya.
 
 <p align="left">
 <a href="https://github.com/JodiKurniawan99">
